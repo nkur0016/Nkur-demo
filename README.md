@@ -1,3 +1,3 @@
 # Nkur-demo
 This my first Git Repository.
-Athor - Nehal Kurve
+Author - Nehal Kurve
